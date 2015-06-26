@@ -1,0 +1,16 @@
+.error{
+    text-align: left;
+    color: red;
+}
+
+.error-label{
+    text-align: left;
+    color: red;
+}
+.checkboxContainer{
+    float: left;
+    padding: 5px;
+}
+.checkboxContainer input[type="checkbox"]{
+    margin-right: 5px;
+}
